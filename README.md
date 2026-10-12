@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on classes
 - 🌱 I’m currently learning game designe
 - 👯 I’m looking to collaborate on nothing
